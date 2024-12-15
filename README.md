@@ -1,2 +1,2 @@
-# Fitness-Tracking-App
+# 🏋️Fitness-Tracking-App
 A fitness tracking app
