@@ -1,2 +1,2 @@
 # 🏋️Fitness-Tracking-App
-A fitness tracking app
+A simple fitness tracking app that allows you to create a workout routine
